@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    border: 3px outset palevioletred;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.Student{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 65%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.expert{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.help{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 51%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
